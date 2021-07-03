@@ -4,7 +4,7 @@ How to run the program:
 <ol>
 <li>Clone the repository</li>
 <li>Run astrotest.py from your terminal</li>
-<li>follow the prompts</li>
+<li>Follow the prompts</li>
 <li>Enjoy the results! </li>
 </ol>
 
