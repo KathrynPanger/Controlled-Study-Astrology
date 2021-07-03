@@ -121,10 +121,7 @@ with open (f"{name}.csv",'a') as allpckts:
         writer = csv.writer(allpckts)
         writer.writerow(datapoint)
 
-#Read the data for all days so far
-with open (f"{name}.csv",'a') as allpckts:
-        writer = csv.writer(allpckts)
-        writer.writerow(datapoint) 
+
 
 #Examine your results for guesses so far
 
